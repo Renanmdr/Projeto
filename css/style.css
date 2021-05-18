@@ -1,8 +1,8 @@
 /* cabeçalho */
-.cabecalho{width: 96%;  float: left; padding:10px 2% ; background-color: blue;}
+.cabecalho{width: 96%;  float: left; padding:0 2% ; background-color: blue;}
 .logo a { height: 1px; float: left; font-size: 39px; color: #fff; text-decoration: none;}
 .menu{width:20%; float: right; padding: 0 2% 10px;}
-.menu li{float: right;}
+.menu li{float: right; color: blue;}
 .menu li a{ color: #fff; margin: 20px; text-decoration: none;}
 /* Principal */
 .principal{width: 96%; float: left; padding: 10px 1%;}
@@ -27,7 +27,24 @@
 .cadastro form input{width: 110%; margin: 10px; padding: 13px 10px; border: 1px solid blue;
      border-radius: 20px; background-color: rgb(225, 241, 241); float: left;}
 .cadastro form button{width:60%; padding: 5px 5px 5px 5px; margin: 10px 40px 0 5px; float:right; 
-          border: 1px solid blue; border-radius: 20px; background-color: rgb(225, 241, 241);} 
+          border: 1px solid blue; border-radius: 20px; background-color:blue; color: white;} 
 .termo{width: 80%; float: left; padding: 10px; text-align:justify;}     
+/* Tela3 */
+.cabecalho3{width: 96%; float: left; background-color: blue; padding: 0 2%;}
+.cabecalho3 h1 a{float: left; color: #fff; font-size: 39px; text-decoration: none;}
+.menu3 li{float: right; color: blue;}
+.menu3 li a{color: #fff; text-decoration: none; margin: 20px;}
+/* principal */
+.principal3{ float: left; padding: 20px 45%;}
+.principal3 div a{color: darkgrey; padding: 0 40%;}
+/* Formulario */
+.formulario{padding: 0 32%;}
+.input1{ width: 89%; padding: 13px 20px ; margin:4px; border: 1px solid blue; float: left; } 
+.input2{width: 59%; padding: 13px 20px ; margin:4px; border: 1px solid blue; float: left;}
+.input3{padding: 5px 30px 5px 30px; margin:15px; border: 1px solid blue;border-radius: 15px; font-size: 12px; background-color: blue; color: #fff;}
+.input4{width: 42%; padding: 13px 20px ; margin:4px; border: 1px solid blue; float: left;}
+.input5{width: 42%; padding: 13px 20px ; margin:4px; border: 1px solid blue; float: left;}
+/* width: 110%; margin: 10px; padding: 13px 10px; border: 1px solid blue;
+     border-radius: 20px; background-color: rgb(225, 241, 241); float: left; */
 
    
